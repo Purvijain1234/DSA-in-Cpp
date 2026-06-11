@@ -7,3 +7,4 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | O(log₁₀(n)) | O(1) | [C++](./0009_Palindrome_Number.cpp) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Hash Table, String, Math | Easy | O(n) | O(1) | [C++](./0013_Roman_To_Integer.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Array, Math | Easy | O(n) | O(1) | [C++](./0066_Plus_One.cpp) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Math, Binary Search | Easy | O(log n) | O(1) | [C++](./0069_Sqrt_x.cpp) |
