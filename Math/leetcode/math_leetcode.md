@@ -4,3 +4,4 @@
 |------|----------|----------|------------|--------|--------|----------|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Math | Medium | O(max(n,m)) | O(max(n,m)) | [C++](./0002_Add_Two_Numbers.cpp) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math | Medium | O(log₁₀(n)) | O(1) | [C++](./0007_Reverse_Integer.cpp) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | O(log₁₀(n)) | O(1) | [C++](./0009_Palindrome_Number.cpp) |
