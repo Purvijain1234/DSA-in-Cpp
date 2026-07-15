@@ -1,6 +1,6 @@
 # Math Problems
 
-**Progress:** 🟢 Easy: **7** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **8**
+**Progress:** 🟢 Easy: **8** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **9**
 
 | No. | Problem | Topics | Difficulty | Time | Space | Solution |
 |------|----------|--------|------------|------|-------|----------|
@@ -12,3 +12,4 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Math, Binary Search | Easy | O(log n) | O(1) | [C++](./0069_Sqrt_x.cpp) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Math, Dynamic Programming, Recursion | Easy | O(2ⁿ) | O(n) | [C++](./0509_Fibonacci_Number.cpp) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Math, Game Theory | Easy | O(1) | O(1) | [C++](./1025_Divisor_Game.cpp) |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Math, Number Theory | Easy | O(1) | O(1) | [C++](./3658_GCD_of_Odd_and_Even_Sums.cpp) |
