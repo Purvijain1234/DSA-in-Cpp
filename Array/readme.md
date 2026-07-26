@@ -6,6 +6,7 @@
 |------|----------|----------|------------|--------|--------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array, Hash Table | Easy | O(n) | O(n) | [C++](./0001_Two_Sum.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers | Easy | O(n) | O(1) | [C++](./0026_Remove_Duplicates_from_Sorted_Array.cpp) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Array, Prefix Sum | Easy | O(n) | O(1) | [C++](./1480_Running_Sum_of_1d_Array.cpp) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Array | Easy | O(n) | O(1) | [C++](./1752_Check_if_Array_Is_Sorted_and_Rotated.cpp) |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Array, Sliding Window, Sorting, Prefix Sum, Greedy | Medium | O(n log n) | O(1) | [C++](./1838_Frequency_of_the_Most_Frequent_Element.cpp) |
 
