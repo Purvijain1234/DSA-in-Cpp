@@ -1,6 +1,6 @@
 # Math Problems
 
-**Progress:** 🟢 Easy: **9** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **10**
+**Progress:** 🟢 Easy: **10** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **11**
 
 | No. | Problem | Topics | Difficulty | Time | Space | Solution |
 |------|----------|--------|------------|------|-------|----------|
@@ -13,4 +13,5 @@
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Math, String, Simulation | Easy | O(n) | O(n) | [C++](./0412_Fizz_Buzz.cpp) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Math, Dynamic Programming, Recursion | Easy | O(2ⁿ) | O(n) | [C++](./0509_Fibonacci_Number.cpp) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Math, Game Theory | Easy | O(1) | O(1) | [C++](./1025_Divisor_Game.cpp) |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Math, Bit Manipulation, Simulation | Easy | O(log n) | O(1) | [C++](./1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.cpp) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Math, Number Theory | Easy | O(1) | O(1) | [C++](./3658_GCD_of_Odd_and_Even_Sums.cpp) |
