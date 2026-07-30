@@ -1,6 +1,6 @@
 # Array Problems
 
-**Progress:** 🟢 Easy: **9** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **9**
+**Progress:** 🟢 Easy: **10** | 🟡 Medium: **1** | 🔴 Hard: **0** | 📌 Total: **9**
 
 | No. | Problem | Topics | Difficulty | Time | Space | Solution |
 |------|----------|----------|------------|--------|--------|----------|
@@ -13,5 +13,6 @@
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Array, Matrix | Easy | O(m × n) | O(1) | [C++](./1672_Richest_Customer_Wealth.cpp) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Array | Easy | O(n) | O(1) | [C++](./1752_Check_if_Array_Is_Sorted_and_Rotated.cpp) |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Array, Sliding Window, Sorting, Prefix Sum, Greedy | Medium | O(n log n) | O(1) | [C++](./1838_Frequency_of_the_Most_Frequent_Element.cpp) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Array, Simulation | Easy | O(n) | O(n) | [C++](./1929_Concatenation_of_Array.cpp) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Math, Simulation | Easy | O(log₁₀(n)) | O(1) | [C++](./3536_Maximum_Product_of_Two_Digits.cpp) |
 
